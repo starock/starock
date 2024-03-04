@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace  STAROCK.Event
+namespace  STAROCK
 {
     public static class EventManager
     {
