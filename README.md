@@ -1,9 +1,4 @@
-# Hi, I'm [Your Name]!
+# Hi, I'm Stormer!
  
-## About Me
-I am a [Your Profession/Role]. I am passionate about [Your Interests].
- 
-## Skills
-- Language: [e.g., Python, JavaScript, etc.]
-- Framework: [e.g., Django, React, etc.]
-- Tools: [e.g., Git, Docker, etc.]
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
