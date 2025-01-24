@@ -1,4 +1,3 @@
 # Hi, I'm Stormer!
  
-![](https://github.com/starock/starock/blob/master/generated/overview.svg)
-![](https://github.com/starock/starock/blob/master/generated/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starock)
